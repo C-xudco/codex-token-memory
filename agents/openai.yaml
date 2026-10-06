@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token 用量与选择性记忆"
+  short_description: "查看真实输入输出、缓存命中与写入用量，选择启用或停用长期记忆"
+  default_prompt: "使用 $codex-token-memory 监测当前对话的 tokens 与缓存命中，并管理我选择保留的记忆。"
