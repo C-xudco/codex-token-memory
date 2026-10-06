@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+local-state/
+work/
+memory.json
+memory.lock
+runtime.json
+server.out.log
+server.err.log
